@@ -108,7 +108,7 @@ sakhi-ai/
 ├── sakhi_ai.py          # Main application
 ├── requirements.txt     # Dependencies
 ├── LICENSE              # MIT License
-├── README.md            # This file
+├── README.md            
 └── docs/
     └── solution.md      # Technical approach & architecture
 ```
