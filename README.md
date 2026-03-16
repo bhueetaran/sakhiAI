@@ -1,5 +1,7 @@
 🌸 SakhiAI — Her First Doctor
-SakhiAI is an AI-powered health companion for Indian women — designed for rural, semi-urban, and urban users alike. It helps women identify symptoms, detect red flags, and get guidance in their own language before it's too late.
+
+SakhiAI is an AI-powered health companion for Indian women — designed for rural, semi-urban, and urban users alike. It helps women identify symptoms, detect red flags, and get guidance in their own language — before it's too late.
+Built for WiCSCon HackHerThon '26 | Ashoka University | March 21–22, 2026
 
 🚨 The Problem
 
@@ -29,10 +31,46 @@ Get an instant health report with:
   🏥 Guidance to nearest ASHA worker / PHC
 
 ✨ Features
-FeatureDescription🌐 MultilingualHindi, Tamil, Bengali, English🫀 Body DiagramVisual symptom selector — no medical words needed🔴 Red Flag DetectorAI flags symptoms needing urgent care🤰 Maternal AlertsSpecial warnings for pregnant women🔬 Screening RemindersCervical cancer, breast cancer, anemia checks📋 Health ReportShareable report to show to doctor/ASHA worker
+🌐 MultilingualHindi, Tamil, Bengali, English
+🫀 Body DiagramVisual symptom selector — no medical words needed
+🔴 Red Flag DetectorAI flags symptoms needing urgent care
+🤰 Maternal AlertsSpecial warnings for pregnant women
+🔬 Screening RemindersCervical cancer, breast cancer, anemia checks
+📋 Health ReportShareable report to show to doctor/ASHA worker
 
-🚀 Getting Started
-Prerequisites
+🛠️ Tech Stack
 
-Python 3.8+
-pip
+Python 3 — core logic & CLI
+Colorama — multilingual terminal UI
+Rule-based AI engine — symptom → red flag mapping
+Hugging Face (roadmap) — IndicBERT for deeper NLP
+React Native (roadmap) — mobile app with voice input
+
+
+🗺️ Roadmap
+
+ Multilingual support (4 languages)
+ Body diagram symptom selector
+ Red flag detection engine
+ Pregnancy-specific alerts
+ Preventive screening reminders
+ Voice input (Web Speech API)
+ Offline mode
+ Mobile app (React Native)
+ Integration with ASHA worker network
+ 10+ Indian language support
+
+
+📁 Project Structure
+sakhi-ai/
+├── sakhi_ai.py          # Main application
+├── requirements.txt     # Dependencies
+├── LICENSE              # MIT License
+├── README.md            # This file
+└── docs/
+    └── solution.md      # Technical approach & architecture
+
+📄 License
+This project is licensed under the MIT License — see LICENSE for details.
+
+Built With ❤️ because every woman deserves to be heard. 🌸
