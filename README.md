@@ -119,5 +119,5 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ---
 
-## 👩‍💻 Built With ❤️ because every woman deserves to be heard. 🌸*
+## Built With ❤️ because every woman deserves to be heard🌸
 
