@@ -77,20 +77,22 @@ python sakhi_prototype1.py
 ---
 
 ## 🛠️ Tech Stack
-✅ Current (Prototype)
-Python 3 — core logic and processing
-Gradio — interactive web-based UI
-Rule-Based AI Engine — symptom → risk mapping
-Multilingual UI System — language-specific rendering
-Custom Symptom Dataset — structured symptom + severity mapping
+### ✅ Current (Prototype)
+- **Python 3** — core logic and processing  
+- **Gradio** — interactive web-based UI  
+- **Rule-Based AI Engine** — symptom → risk mapping  
+- **Multilingual UI System** — language-specific rendering  
+- **Custom Symptom Dataset** — structured symptom + severity mapping  
 
-🚀 Future Tech Stack (Planned)
-NLP Models (IndicBERT / LLMs) — for natural language understanding
-Speech-to-Text (Web Speech API / Whisper) — voice input support
-React Native — mobile application development
-Geolocation APIs — nearest PHC / ASHA worker guidance
-Offline-first Architecture — for low-connectivity regions
-Cloud Backend (Firebase / FastAPI) — scalability and user data handling
+### 🚀 Future Tech Stack (Planned)
+- **NLP Models (IndicBERT / LLMs)** — natural language understanding  
+- **Speech-to-Text (Web Speech API / Whisper)** — voice input support  
+- **React Native** — mobile application development  
+- **Geolocation APIs** — nearest PHC / ASHA worker guidance  
+- **Offline-first Architecture** — for low-connectivity regions  
+- **Cloud Backend (Firebase / FastAPI)** — scalability and data handling  
+
+> ⚠️ Note: The current version is a working prototype. The future stack outlines planned enhancements for scalability and accessibility.
 
 ---
 
