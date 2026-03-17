@@ -71,7 +71,7 @@ cd sakhiAI
 pip install -r requirements.txt
 
 # Run SakhiAI
-python sakhi_ai.py
+python sakhi_prototype1.py
 ```
 
 ---
@@ -105,12 +105,11 @@ python sakhi_ai.py
 
 ```
 sakhi-ai/
-├── sakhi_ai.py          # Main application
+├── sakhi_prototype1.py          # Main application
 ├── requirements.txt     # Dependencies
 ├── LICENSE              # MIT License
 ├── README.md            
-└── docs/
-    └── solution.md      # Technical approach & architecture
+└── solution.md     # Technical approach & architecture
 ```
 
 ## 📄 License
